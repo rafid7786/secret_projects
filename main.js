@@ -137,7 +137,7 @@ document.querySelector('#app').innerHTML = `
   </div>
 
   <audio id="bgMusic" loop>
-    <source src="./public/Good Morning Everyone ft. Uan Kaisar - Istimewa (Lyric Video).mp3" type="audio/mpeg">
+    <source src="./src/lagu1.mp3" type="audio/mpeg">
   </audio>
 `;
 
